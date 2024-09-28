@@ -1,6 +1,6 @@
 package com.rays.inheritance;
 
-public class Rectangle {
+public class Rectangle extends Shape {
 private int length;
 private int width;
 public int getLength() {
